@@ -1,5 +1,7 @@
 # Meal Tracker
 
+by Peter
+
 ##### A Practice Website For Learning Angular
 
 This website allows you to enter and display meals you have eaten recently (including the calories and a description). It also allows you to sort meals based off high calories (over 500) or low calories (under 500).
